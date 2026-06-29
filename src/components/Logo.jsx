@@ -10,14 +10,14 @@ import logo6 from "../assets/logos/logo6.png";
 const logos = [
 {
 img: logo1,
-name:"Arch Studio",
-type:"Architecture"
+name:"MASCARO",
+type:"Construction"
 },
 
 {
 img: logo2,
-name:"Codeverse",
-type:"Technology"
+name:"LOFTY",
+type:"Lifts"
 },
 
 {

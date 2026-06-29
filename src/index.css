@@ -1053,8 +1053,8 @@ box-shadow:
 
 .logo-card img{
 
-width:82px;
-
+width:100px;
+margin:0;
 object-fit:contain;
 
 filter:grayscale(100%);
